@@ -1,0 +1,56 @@
+.logo{
+   font-size: xx-large;font-style: italic;color:#FF0000 ;
+}
+li{
+  list-style: none;
+  float:left;
+  width: 10em;
+}
+a{text-decoration: none
+}
+a:hover{
+transition: 1s;
+  
+}
+.links a{
+  color:black;
+  font-size: larger;
+  background-color:cornsilk;
+}
+.searchbox{
+  float: right;
+  width: 260px;
+}
+.searchbutton {
+  color: fuchsia;
+  
+}
+.name{
+  font-size: large;
+  position:absolute;
+  top :50%;
+  left :50%;
+  transform: translate(-50%,-50%);
+}
+.name h1{
+  font-style:italic;
+  color: red;
+}
+.button{
+  position:absolute;
+  top:65%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}
+.button a{
+  color:darkgreen;
+  background-color:wheat;
+  padding: 5px 20px;
+  border: 1.ch snow
+}
+.button :hover{
+  
+  color: black;
+  border-radius: 60px;
+  
+}
